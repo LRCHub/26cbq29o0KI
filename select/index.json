@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BUMP OF CHICKEN「なないろ」 from BUMP OF CHICKEN LIVE 2022 Silver Jubilee at Makuhari Messe",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-01-02T03:34:11.332454Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BUMP OF CHICKENのテーマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_BUMP_OF_CHICKENのテーマ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
